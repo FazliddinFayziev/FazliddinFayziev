@@ -18,7 +18,7 @@ I am Fazliddin, a Software Engineer skilled in transforming design ideas into pi
 <p align="left">
   
 <a href="#" target="blank" style="margin: '15px'"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" alt="fazliddinfayziev" height="60" width="60" /></a>
-<a href="#" target="blank" style="margin: '15px'"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="fazliddinfayziev" height="60" width="60" /></a>
+<a href="#" target="blank" style="margin: '15px'"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="fazliddinfayziev" height="60" width="70" /></a>
 <a href="#" target="blank" style="margin: '15px'"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" alt="fazliddinfayziev" height="60" width="85" /></a>
 <a href="#" target="blank" style="margin: '15px'"><img align="center" src="https://www.iteachrecruiters.com/img/blog/logo/react-native.png" alt="fazliddinfayziev" height="70" width="60" /></a>
 <a href="#" target="blank" style="margin: '15px'"><img align="center" src="https://cdn.cdnlogo.com/logos/m/30/mongodb-icon.svg" alt="fazliddinfayziev" height="60" width="60" /></a>
