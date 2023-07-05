@@ -19,3 +19,5 @@ I am Fazliddin, a Software Engineer skilled in transforming design ideas into pi
 
 💬🌱 Ask me about Web and Mobile.
 ```
+
+https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg
