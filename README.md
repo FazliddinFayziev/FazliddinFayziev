@@ -1,16 +1,20 @@
-### Hi there 👋, I am Fazliddin.
 
-<!--
-**FazliddinFayziev/FazliddinFayziev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Hi there 👋 ####
+I am Fazliddin, a Software Engineer skilled in transforming design ideas into pixel-perfect, responsive websites. I build secure and scalable web applications that exceed expectations and wow users. You can visit my website at [fayziev.uz](https://fayziev.uz/).
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+🌱 I am Fazlidin And I'm 20 years old.
+
+🌱 I'm originally from Uzbekistan but I live in Selangor, Malaysia.
+
+🌱 Interested in contributing expertise in web  and mobile development.
+
+🌱 Enjoy contributing to Open Source Projects  and eager to learn new technologies.
+
+📚 Love reading or listenning books on personal development.
+
+💬 Ask me about Web and mobile.
+         ```
+
+
