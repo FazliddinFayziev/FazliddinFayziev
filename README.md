@@ -1,12 +1,7 @@
 
 #### Hi there 👋 ####
 
-```
-I am Fazliddin, a Software Engineer skilled in transforming design ideas into pixel-perfect,
-responsive websites. I build secure and scalable web applications that exceed expectations
-and wow users. You can visit my website at [fayziev.uz](https://fayziev.uz/).
-
-```
+I am Fazliddin, a Software Engineer skilled in transforming design ideas into pixel-perfect,responsive websites. I build secure and scalable web applications that exceed expectationsand wow users. You can visit my website at [fayziev.uz](https://fayziev.uz/).
 
 
 #### Connect with me ####
