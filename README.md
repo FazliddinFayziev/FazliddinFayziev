@@ -30,9 +30,9 @@ I am Fazliddin, a Software Engineer skilled in transforming design ideas into pi
 #### About Me ####
 
 ```
-🌱 I am Fazlidin And I'm 20 years old.
+🌱 I am Fazlidin And I'm 21 years old.
 
-🌱 I'm originally from Uzbekistan but I live in Selangor, Malaysia.
+🌱 I'm originally from Uzbekistan but I live in New York, USA.
 
 🌱 Interested in contributing expertise in web  and mobile development.
 
