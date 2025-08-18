@@ -13,19 +13,6 @@ I am Fazliddin, a Software Engineer skilled in transforming design ideas into pi
 </p>
 
 
-#### Skills ####
-
-<p align="left">
-  
-<a href="#" target="blank" style="margin: '15px'"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" alt="fazliddinfayziev" height="60" width="60" /></a>
-<a href="#" target="blank" style="margin: '15px'"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="fazliddinfayziev" height="60" width="65" /></a>
-<a href="#" target="blank" style="margin: '15px'"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" alt="fazliddinfayziev" height="60" width="85" /></a>
-<a href="#" target="blank" style="margin: '15px'"><img align="center" src="https://www.iteachrecruiters.com/img/blog/logo/react-native.png" alt="fazliddinfayziev" height="65" width="60" /></a>
-<a href="#" target="blank" style="margin: '15px'"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" alt="fazliddinfayziev" height="60" width="40" /></a>
-
-</p>
-
-
 #### About Me ####
 
 ```
@@ -33,13 +20,13 @@ I am Fazliddin, a Software Engineer skilled in transforming design ideas into pi
 
 🌱 I'm originally from Uzbekistan but I live in New York, USA.
 
-🌱 Interested in contributing expertise in web  and mobile development.
+🌱 Interested in contributing expertise in web and mobile development.
 
 🌱 Enjoy contributing to Open Source Projects  and eager to learn new technologies.
 
 📚🌱 Love reading or listenning books on personal development.
 
-💬🌱 Ask me about Web and Mobile.
+💬🌱 Ask me about Web, Mobile and AI.
 ```
 
 
